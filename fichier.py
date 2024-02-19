@@ -19,4 +19,6 @@ with open(chemin,"w") as f:
 
 
 # LA SUITE DANS UN AUTRE FICHIER
+
+# we learn now
     
